@@ -10,4 +10,4 @@ E molto facile! Crea un .env file e metti questo ```token=iltuotoken``` se sei s
 
 ## hosting
 
-Ho usato replit per creare questo codice: usa [questo](uptimerobot.com) per hosting!
+Ho usato replit per creare questo codice: usa [questo](https://www.uptimerobot.com) per hosting!
